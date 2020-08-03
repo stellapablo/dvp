@@ -1,0 +1,1 @@
+/home/pablo/public_html/vialidadchaco/app/views/noticias/show.blade.php
